@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/2fov16qqaeuxbuj5?svg=true)](https://ci.appveyor.com/project/SSKulikov/ajs-containers-map)
